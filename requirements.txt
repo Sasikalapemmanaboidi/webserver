@@ -4,3 +4,5 @@ mysqlclient==2.2.7
 PyMuPDF==1.26.7
 sqlparse==0.5.4
 tzdata==2025.3
+mysql==0.0.3
+mysql-connector-python==8.2.0
